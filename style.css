@@ -3,11 +3,14 @@ body{
     vertical-align: middle;
     text-align: center;
 }
-p{
-    border: 5px solid black;
-    padding: 10px;
-    vertical-align: middle;
-    background-color: red;
-    margin: 40px;
 
+h1{
+    font-family:Quintessential;
+}
+p{
+    border: 1px solid black;
+    padding: 10px;
+    font-family:
+    font-weight:bold;
+    vertical-align: middle;
 }
