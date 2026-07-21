@@ -1,6 +1,6 @@
-let button = document.getElementsByClassName('btn')
-let messageBox = document.getElementsByClassName('msg-box')
+let button = document.querySelector('.btn');
+let messageBox = document.querySelector('.msg-box');
 
 button.addEventListener('click', function(){
-    messageBox.innerText = "The button was clicked!!";
-})
+    messageBox.innerText = "Keshav stop acting gay you still have time!!";
+});
