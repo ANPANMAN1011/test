@@ -3,7 +3,7 @@ let messageBox = document.querySelector('.msg-box');
 
 button.addEventListener('click', async function(){
 
-    let baseText = "Harshillji is meditating a advice";
+    let baseText = "Harshillji is meditating a advice 🕉️";
     let dots = " ";
     // show a loading message
     messageBox.innerText = baseText;
