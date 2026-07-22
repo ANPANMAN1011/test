@@ -5,12 +5,6 @@ body{
 }
 
 h1{
-    font-family: Merienda;
+    font-family: Roboto;
 }
-p{
-    border: 1px solid black;
-    padding: 10px;
-    font-family:
-    font-weight:bold;
-    vertical-align: middle;
-}
+
